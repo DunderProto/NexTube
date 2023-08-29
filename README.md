@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+NexTube, NewTube 2.0!
+Recreating the YouTube website with NextJS and Firebase.
 First, run the development server:
 
 ```bash
